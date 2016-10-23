@@ -15,6 +15,7 @@ BATTLEFIELD1ではゲーム内メニューからいじれない設定を、コ�
 ### ゲームのインストール先を開く
 ゲームのインストールフォルダを開いてuser.cfgを配置します。  
 Originデフォルトでは以下のディレクトリにインストールされていると思います。
+
 ```
 C:\Program Files (x86)\Origin Games\Battlefield 1\
 ```
@@ -33,6 +34,7 @@ C:\Program Files (x86)\Origin Games\Battlefield 1\
 
 ### user.cfgファイルの中身を編集
 以下の設定内容を記述
+
 ```
 PerfOverlay.DrawFps 1
 ```
