@@ -29,10 +29,10 @@ C:\Program Files (x86)\Origin Games\Battlefield 1\
 でuser.cfgを作成します。  
   
 後者を選んだ場合は以下に進んでください。  
-前者の場合は設定終了なので、Battlefield1を起動してみてください。　　
+前者の場合は設定終了なので、Battlefield1を起動してみてください。
 
 ### user.cfgファイルの中身を編集
-以下の設定内容を記述　　
+以下の設定内容を記述
 ```
 PerfOverlay.DrawFps 1
 ```
