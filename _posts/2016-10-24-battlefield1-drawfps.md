@@ -18,22 +18,22 @@ C:\Program Files (x86)\Origin Games\Battlefield 1\
 
 ### user.cfgファイルを配置
 以下のファイルをダウンロードして配置するか  
-![user.cfg]({{ site.baseurl }}/files/user.cfg)  
+[user.cfg]({{ site.baseurl }}/files/user.cfg)  
 
 右クリック→新規作成→テキストファイル→ファイル名をuser.cfg  
 でuser.cfgを作成します。  
   
-後者を選んだ場合は以下に進んでください。  　　
-前者の場合は設定終了なのでBattlefield1を起動してみてください。　　
+後者を選んだ場合は以下に進んでください。  
+前者の場合は設定終了なので、Battlefield1を起動してみてください。　　
 
 ### user.cfgファイルの中身を編集
 以下の設定内容を記述　　
 ```
 PerfOverlay.DrawFps 1
 ```
-ほかの設定を追加したい場合は以下のサイトなどを参考に  　
+ほかの設定を追加したい場合は以下のサイトなどを参考に  
 [Here Are All Battlefield 1 Console Commands](https://diaryofdennis.com/2016/08/31/here-are-all-battlefield-1-console-commands/)  
-　　
+
 以上です。
 
 ## 参考文献
