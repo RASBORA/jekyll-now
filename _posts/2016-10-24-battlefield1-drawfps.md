@@ -17,8 +17,8 @@ C:\Program Files (x86)\Origin Games\Battlefield 1\
 ```
 
 ### user.cfgファイルを配置
-以下のファイルをダウンロードして配置するか
-![_config.yml]({{ site.baseurl }}/files/user.cfg)
+以下のファイルをダウンロードして配置するか  
+![user.cfg]({{ site.baseurl }}/files/user.cfg)
 
 右クリック→新規作成→テキストファイル→ファイル名をuser.cfg
 でuser.cfgを作成します。
