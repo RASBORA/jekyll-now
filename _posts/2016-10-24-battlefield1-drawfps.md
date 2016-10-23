@@ -1,4 +1,7 @@
-## BATTLEFIELD1でフレームレート（FPS）表示する方法
+---
+layout: post
+title: BATTLEFIELD1でフレームレート（FPS）表示する方法
+---
 
 ### 概要
 BATTLEFIELD3やBATTLEFIELD4でおなじみのcfgファイルを利用してフレームレート（FPS）を表示する方法です。  
