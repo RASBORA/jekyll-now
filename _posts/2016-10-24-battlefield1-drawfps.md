@@ -41,6 +41,7 @@ PerfOverlay.DrawFps 1
 ほかの設定を追加したい場合は以下のサイトなどを参考に  
 [Here Are All Battlefield 1 Console Commands](https://diaryofdennis.com/2016/08/31/here-are-all-battlefield-1-console-commands/)  
 
+今作は右上に小さく表示されるので注意です(他の設定足すことで表示を変更すること可能)。  
 以上です。
 
 # ・参考文献
