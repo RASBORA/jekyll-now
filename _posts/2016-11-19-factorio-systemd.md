@@ -11,6 +11,10 @@ Ubuntu16
 
 # 手順
 
+# factorioサーバーファイルを配置
+/srv/の中に作成しました。
+セーブデータ名はplaygound01.zipで作りました
+
 # factorio.serviceを作成  
 以下のディレクトリに作ります
 /etc/systemd/system/  
@@ -25,8 +29,8 @@ After=network-online.target
 ExecStart=/srv/factorio/bin/x64/factorio --start-server /srv/factorio/playground01.zip
 WorkingDirectory=/srv/factorio
 Restart=always
-User=root
-Group=root
+User=factorio
+Group=factorio
 
 [Install]
 WantedBy=multi-user.target
