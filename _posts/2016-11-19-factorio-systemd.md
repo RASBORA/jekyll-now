@@ -10,8 +10,9 @@ factorioをUbuntuのデーモンとして登録します。
 Ubuntu16
 
 # 手順
-以下のディレクトリにfactorio.serviceを作成  
 
+# factorio.serviceを作成  
+以下のディレクトリに作ります
 /etc/systemd/system/  
 
 内容は以下の通りです
@@ -31,12 +32,15 @@ Group=root
 WantedBy=multi-user.target
 ```
 
-デーモン起動
+## デーモン起動
 ```
 systemctl start factorio
 ```
 
-デーモン登録
+## デーモン登録
 ```
 systemctl enable factorio
 ```
+
+# 参考資料
+(http://wikiwiki.jp/factorio/?%A5%DE%A5%EB%A5%C1%A5%D7%A5%EC%A5%A4)[http://wikiwiki.jp/factorio/?%A5%DE%A5%EB%A5%C1%A5%D7%A5%EC%A5%A4]
