@@ -17,9 +17,11 @@ Ubuntu16
 
 # factorio.serviceを作成  
 以下のディレクトリに作ります
-/etc/systemd/system/  
+```
+/etc/systemd/system/
+``` 
 
-内容は以下の通りです
+内容は以下の通りです  
 ```
 [Unit]
 Description=Factorio Server
@@ -47,4 +49,4 @@ systemctl enable factorio
 ```
 
 # 参考資料
-(http://wikiwiki.jp/factorio/?%A5%DE%A5%EB%A5%C1%A5%D7%A5%EC%A5%A4)[http://wikiwiki.jp/factorio/?%A5%DE%A5%EB%A5%C1%A5%D7%A5%EC%A5%A4]
+[http://wikiwiki.jp/factorio/?%A5%DE%A5%EB%A5%C1%A5%D7%A5%EC%A5%A4](http://wikiwiki.jp/factorio/?%A5%DE%A5%EB%A5%C1%A5%D7%A5%EC%A5%A4)
