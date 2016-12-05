@@ -12,11 +12,11 @@ Ubuntu16
 # 手順
 
 # factorioサーバーファイルを配置
-/srv/の中に作成しました。 
+/srv/の中に作成しました。  
 セーブデータ名はplaygound01.zipで作りました
 
 # factorio.serviceを作成  
-以下のディレクトリに作ります
+以下のディレクトリに作ります  
 
 ```
 /etc/systemd/system/
