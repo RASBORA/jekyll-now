@@ -5,7 +5,7 @@ title: HotlineMiami2日本語化MOD
 
 HotlineMiami2のセリフのみ日本語化MODを作成しました。
 
-<a href="https://ivy-box.net/data/japanmod.zip">ダウンロード</a>  
+<a href="https://blog.ivy-box.net/files/japanmod.zip">ダウンロード</a>  
 * 上記をダウンロード＆解凍
 * `japanmod.patchwad`を`"ドキュメント/My Games/HotlineMiami2/mods"`配下に配置
 * ゲームタイトル→Options→LanguageでJapanmodを選択

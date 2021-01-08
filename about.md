@@ -8,4 +8,4 @@ permalink: /about.html
 
 ### Contact me
 
-[supporte@ivy-box.net](mailto:supporte@ivy-box.net)
+[support@ivy-box.net](mailto:support@ivy-box.net)
